@@ -32,6 +32,7 @@ public class EjemploDatos {
             
             //swicht
             System.out.println("Ingrese una opción:" + "\n" + " A) Sumar B) Restar S) Salir");
+            
             opcion = scanner.next();
         }
     }
